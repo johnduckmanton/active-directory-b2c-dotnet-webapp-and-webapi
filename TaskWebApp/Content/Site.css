@@ -1,6 +1,7 @@
 ﻿body {
-    padding-top: 50px;
+    padding-top: 10px;
     padding-bottom: 20px;
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 /* Set padding to keep content from hitting the edges */
@@ -92,3 +93,24 @@ input[type="checkbox"].input-validation-error {
 .claim-head {
     background-color:rgb(157, 201, 212);
 }
+
+/*.navbar-inverse {
+    background-color: #0078d7;
+    border-color: #0078d7;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
+    color: #fff;
+    background-color: transparent;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: rgb(255, 255, 255);
+}*/
+
+.header > a > img {
+    display: block;
+    padding: 0px 15px 12.5px;
+    width: 150px;
+}
+
